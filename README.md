@@ -9,3 +9,9 @@ liralira
 * TAKAUKI
 
 ## how to release
+
+* aaa
+* bbb
+* ccc
+
+## When I ...
